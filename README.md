@@ -15,13 +15,21 @@ Many Natural Language Processing (NLP) related applications involves topics and 
 - Please create an issue if you have questions.
 
 ## Citation
+
 @misc{zhang2025weightedsimilaritymetriccommunity,
+
       title={A Weighted Similarity Metric for Community Detection in Sparse Data}, 
+      
       author={Yong Zhang and Eric Herrison Gyamfi},
+      
       year={2025},
+      
       eprint={2501.07025},
+      
       archivePrefix={arXiv},
+      
       primaryClass={stat.ME},
+      
       url={https://arxiv.org/abs/2501.07025}, 
 }
 
