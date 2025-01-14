@@ -16,7 +16,8 @@ Many Natural Language Processing (NLP) related applications involves topics and 
 
 ## Citation
 
-@misc{zhang2025weightedsimilaritymetriccommunity,
+@misc{
+      zhang2025weightedsimilaritymetriccommunity,
 
       title={A Weighted Similarity Metric for Community Detection in Sparse Data}, 
       
