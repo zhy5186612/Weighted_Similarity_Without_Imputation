@@ -20,12 +20,19 @@ Please cite our paper if you use this code or part of it in your work:
 
 @misc{
       zhang2025weightedsimilaritymetriccommunity,
+      
       title={A Weighted Similarity Metric for Community Detection in Sparse Data}, 
+      
       author={Yong Zhang and Eric Herrison Gyamfi},
+      
       year={2025},
+      
       eprint={2501.07025},
+      
       archivePrefix={arXiv},
+      
       primaryClass={stat.ME},
+      
       url={https://arxiv.org/abs/2501.07025}, 
 }
 
